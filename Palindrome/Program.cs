@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-namespace Palindrome
+namespace ReverseString
 {
     internal class Program
     {
